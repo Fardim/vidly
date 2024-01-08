@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "vidly_jwtPrivateKey",
+    "db": "mongodb+srv://fardim:201122053Fk9094%40@vidly-oqxjl.azure.mongodb.net/vidly?retryWrites=true",
+    "port": "3900"
+}
